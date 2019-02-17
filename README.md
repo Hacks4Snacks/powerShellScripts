@@ -1,5 +1,5 @@
 # simplePowerShellScripts
-A collection of simple PowerShell scripts.
+A collection of PowerShell scripts.
 
 ## Getting Started
 
