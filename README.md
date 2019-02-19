@@ -10,3 +10,5 @@ A collection of PowerShell scripts.
 
 1. [enableDNSServerDiag](scripts/enableDNSServerDiag.ps1): simple script to enable the DNS diagnostic options on servers listed in a text file
 2. [adQuery](scripts/adQuery.ps1): simple script to query AD for all assets and return in JSON format
+
+## Incident Response
