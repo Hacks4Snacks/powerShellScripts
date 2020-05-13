@@ -9,8 +9,8 @@ for privilege escalation.
 PS > .\win_enum.ps1 
 will write results out to screen.
 .EXAMPLE
-PS > .\win_enum.ps1 -OutputFileName Jaws-Enum.txt
-Writes out results to Jaws-Enum.txt in current directory.
+PS > .\win_enum.ps1 -OutputFileName win_num.txt
+Writes out results to win_enum.txt in current directory.
 .LINK
 
 #>
