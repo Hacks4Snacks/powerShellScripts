@@ -267,5 +267,5 @@ if ($OutputFilename.length -gt 0)
     } 
 else 
     {
-    JAWS-ENUM
+    WIN_ENUM
     }
