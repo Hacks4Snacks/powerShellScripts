@@ -1,5 +1,5 @@
-# simplePowerShellScripts
-A collection of PowerShell scripts.
+# PowerShell Scripts
+ A collection of PowerShell scripts that are either not meaningful or complex enough to warrant an independent repository
 
 ## Getting Started
 
