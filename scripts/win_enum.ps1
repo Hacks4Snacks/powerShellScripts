@@ -258,7 +258,7 @@ if ($OutputFilename.length -gt 0)
         Try 
             { 
                 [io.file]::OpenWrite($OutputFilename).close()  
-                JAWS-ENUM
+                WIN_ENUM
             }
         Catch 
             { 
